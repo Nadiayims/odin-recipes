@@ -1,1 +1,3 @@
-# odin-recipes
+# Odin-recipes
+
+This is a webpage in which i will display some of my favorite recipes from my country Cameroon.
